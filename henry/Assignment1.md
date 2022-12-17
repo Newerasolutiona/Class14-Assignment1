@@ -4,3 +4,6 @@ Class 14
 
 What are the differences between Gradle and Maven?
 
+1. Maven uses XML, while Gradle does not use XML (uses Groovy instead).
+
+
