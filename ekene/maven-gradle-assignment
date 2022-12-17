@@ -22,4 +22,12 @@
 -Maven is a known tool for many users and is easily available.
 -Gradle is a new tool, which requires users to spend a lot of time to get used to it.
 
+(7) Customization:
+-Maven serves a limited amount of developers and is not that customizable.
+-Gradle is highly customizable as it supports a variety of IDE's.
+
+(8) Languages supported:
+-Maven supports software development in Java, Scala, C# and Ruby.
+-Gradle supports software development in Java, C, C++ and Groovy.
+
 
