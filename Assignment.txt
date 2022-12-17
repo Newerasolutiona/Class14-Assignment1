@@ -7,3 +7,11 @@
 
 1. Flexibility: Both Gradle and Maven provide convention over configuration. However, Maven provides a very rigid model that makes customization tedious and sometimes impossible. While this can make it easier to understand any given Maven build, as long as you don’t have any special requirements, it also makes it unsuitable for many automation problems. Gradle, on the other hand, is built with an empowered and responsible user in mind.
 Google chose Gradle as the official build tool for Android; not because build scripts are code, but because Gradle is modeled in a way that is extensible in the most fundamental ways.
+
+2. Performance:  Both Gradle and Maven employ some form of parallel project building and parallel dependency resolution. The biggest differences are Gradle's mechanisms for work avoidance and incrementality.
+The top 3 features that make Gradle much faster than Maven are:
+
+#Incrementality — Gradle avoids work by tracking input and output of tasks and only running what is necessary, and only processing files that changed when possible.
+#Build Cache — Reuses the build outputs of any other Gradle build with the same inputs, including between machines.
+#Gradle Daemon — A long-lived process that keeps build information "hot" in memory.
+These and more performance features make Gradle at least twice as fast for nearly every scenario (100x faster for large builds using the build cache) in this Gradle vs Maven performance comparison.
