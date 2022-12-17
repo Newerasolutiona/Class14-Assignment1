@@ -1,0 +1,9 @@
+# The differences between Maven and Graddle.
+#The differences will be examined in terms of:
+#Flexibility
+#Performance
+#User Experience and
+#Dependency Management.
+
+1. Flexibility: Both Gradle and Maven provide convention over configuration. However, Maven provides a very rigid model that makes customization tedious and sometimes impossible. While this can make it easier to understand any given Maven build, as long as you don’t have any special requirements, it also makes it unsuitable for many automation problems. Gradle, on the other hand, is built with an empowered and responsible user in mind.
+Google chose Gradle as the official build tool for Android; not because build scripts are code, but because Gradle is modeled in a way that is extensible in the most fundamental ways.
