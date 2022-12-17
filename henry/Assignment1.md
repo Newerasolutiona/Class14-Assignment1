@@ -10,4 +10,4 @@ What are the differences between Gradle and Maven?
 
 3. Maven was created by Jason van Zyl while Gradle was founded by Hans Dockter.
 
-4. 
+4. In order to use Maven a local Maven must be installed on the machine which allows for less clutter in the repo directory, while Gradle uses a wrapper script so it does not require a local installation but it does require a bit more directories in the repository when being used.
