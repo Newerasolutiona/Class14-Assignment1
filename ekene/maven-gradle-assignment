@@ -14,4 +14,12 @@
 -Maven does not create local temporary files during software creation, and hence it's slower.
 -Gradle performs better than maven as it optimized for tracking only current running task.
 
+(5) Java Compilation:
+-Maven makes it necessary to compile.
+-Gradle avoids compilation.
+
+(6) Usability:
+-Maven is a known tool for many users and is easily available.
+-Gradle is a new tool, which requires users to spend a lot of time to get used to it.
+
 
