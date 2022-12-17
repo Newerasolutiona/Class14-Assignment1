@@ -8,3 +8,10 @@
 -Maven uses Extensible Markup Language(XML) for creating project structure.
 -Gradle uses a Groovy-based Domain specific language(DSL) for creating project structure.
 
+(3) Maven focuses on developing applications in agiven time limit, while Gradle focuses on developing applications by adding new features to them.
+
+(4)Performance:
+-Maven does not create local temporary files during software creation, and hence it's slower.
+-Gradle performs better than maven as it optimized for tracking only current running task.
+
+
