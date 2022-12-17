@@ -1,0 +1,10 @@
+### Maven Assignment 1
+### What is the difference between Maven and Gradle
+
+Maven is based on developing purely on the java language based software
+while,
+Gradles is based on developing domain specific language for creating speific project structures.
+
+Gradles provide customize dependencies selection and substitute rules that can be declared and handle unwanted dependenceis project
+
+Maven allows one to overide dependencie.but only by version
