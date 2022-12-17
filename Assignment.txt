@@ -17,3 +17,9 @@ The top 3 features that make Gradle much faster than Maven are:
 These and more performance features make Gradle at least twice as fast for nearly every scenario (100x faster for large builds using the build cache) in this Gradle vs Maven performance comparison.
 
 3. User Experience: Maven's longer tenure means that its support through IDEs is better for many users. Gradle's IDE(Integrated Development Environment) support continues to improve quickly, however. For example, Gradle now has a Kotlin-based DSL that provides a much better IDE(Domain Specific Language) experience. Unlike Maven, Gradle provides an interactive web-based UI for debugging and optimizing builds.
+
+4. Dependency Management: Both build systems provide built-in capability to resolve dependencies from configurable repositories. Both are able to cache dependencies locally and download them in parallel.
+
+As a library consumer, Maven allows one to override a dependency, but only by version. Gradle provides customizable dependency selection and substitution rules that can be declared once and handle unwanted dependencies project-wide.
+
+Maven has few, built-in dependency scopes, which forces awkward module architectures in common scenarios like using test fixtures or code generation. But Gradle allows custom dependency scopes, which provides better-modeled and faster builds.
