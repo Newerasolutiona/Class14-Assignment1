@@ -8,4 +8,6 @@ What are the differences between Gradle and Maven?
 
 2. Gradle scripts are typically a lot shorter and a lot cleaner than Maven scripts.
 
-3.
+3. Maven was created by Jason van Zyl while Gradle was founded by Hans Dockter.
+
+4. 
