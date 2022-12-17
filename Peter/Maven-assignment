@@ -9,4 +9,16 @@ Gradles is based on developing domain specific language for creating speific pro
 
 Gradles provide customize dependencies selection and substitute rules that can be declared and handle unwanted dependenceis project
 
-Maven allows one to overide dependencie.but only by version
+Maven allows one to overide dependencies.but only by version
+
+Maven uses XML
+
+Gradle does not use XML
+
+Maven allows compilation, distribution, documentation and team collaboration
+
+Maven repository is a directory of packaged JAR file with pom.xml file
+
+Gradle uses Directed Acyclic Graph to determine the order to run the tasks.
+
+Gradle default build tool is Andriod OS
