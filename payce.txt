@@ -1,3 +1,7 @@
 DIFFERENCES BETWEEN MAVEN AND GRADLE:
 
 Gradle is based on domain-specific language (DSL), used for a specific purpose to solve a specific problem, while Maven is based on general programming language (GPL), used for any number of purposes, to solve any number of problems.
+
+Gradle creates a project structure using a Groovy-based DSL (Domain-Specific Language), while Maven uses XML (Extensible Markup Language) to create project structures.
+In Gradle, the main goal is to add functionality to the project while purpose of the Maven tool-based project is to finish the project within the given timeline.
+There are several choices present in the Gradle tool in terms of IDE support. Therefore, it makes the tool highly customizable. The Maven tool does not support several IDE, which makes it less customizable compared to Gradle.
