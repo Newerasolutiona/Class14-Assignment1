@@ -19,3 +19,10 @@
    limited number of developers and is not much customizable.
    while Gradle is highly customizable and provides an extensive range of 
    IDE support builds. We can use Gradle for native development with C/C++.
+
+6. Maven has a slower build time since it does not use build-cache, which 
+   means it does not create local temporary files during software creation 
+   hence uses ample time.
+   while Gradle performs better than Maven as we optimize it for tracking only 
+   current running tasks, which means it only works on the tasks that have been 
+   changed to give a better performance.
