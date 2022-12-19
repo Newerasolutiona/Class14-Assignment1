@@ -1,0 +1,3 @@
+DIFFERENCES BETWEEN MAVEN AND GRADLE:
+
+Gradle is based on domain-specific language (DSL), used for a specific purpose to solve a specific problem, while Maven is based on general programming language (GPL), used for any number of purposes, to solve any number of problems.
