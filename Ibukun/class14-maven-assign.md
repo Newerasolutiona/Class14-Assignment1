@@ -5,3 +5,6 @@ DIFFERENCES BETWEEN GRADLE AND MAVEN
 4. Performance: Gradle performs better than maven as it optimized for tracking only current running task. Maven does not create local temporary files during software creation, and is hence – slower.
 5. Java Compilation: Gradle avoids compilation. Maven does compilation.
 6. Usability: Gradle is a new tool, which requires users to spend a lot of time to get used to it. Maven is a known tool for many users and is easily available.
+7. Customization: Gradle is highly customizable as it supports a variety of IDE’s. Maven serves a limited amount of developers and is not that customizable.
+8. Languages supported: Gradle supports software development in Java, C, C++, and Groovy. Maven supports software development in Java, Scala, C#, and Ruby.
+
