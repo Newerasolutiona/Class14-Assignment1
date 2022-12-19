@@ -1,4 +1,4 @@
-ASSIGNMENT 5
+ASSIGNMENT 
 
 What are the differences between Maven and Gradle?
 
@@ -8,9 +8,17 @@ a. Maven is based on developing Java-based software, and it relates the goal to 
 
 b. Maven focuses on developing applications within deadlines.
 
+c. Maven uses Extensible Markup Language or XML for making the project structure. Maven uses an XML file for declaring the project and its dependencies
+
+d. Maven supports development in languages like Scala, C#, and Ruby.
+
 Gradle
 
 a. Gradle is based on developing domain-specific language projects. The goal with Gradle is to add functionality to a project.
 
 b. Gradle focuses on developing applications by adding additional features.
+
+c. Gradle doesn't use an XML file for the declaration of project configuration. Gradle uses Groovy-based Domain-Specific language for making the project structure.
+
+d. Gradle supports development in languages like Java, C, C++, and Groovy.
 
