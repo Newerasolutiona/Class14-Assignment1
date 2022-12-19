@@ -5,3 +5,5 @@ Difference between Gradle and Maven
 1)Gradle uses a Groovy-based domain-specific language (DSL) for creating project structure, while Maven uses Extensible Makeup Language (XML) for its project configuration.
 
 2)Gradle performs better/faster than Maven as it optimized for tracking only current running task. Maven does not create temporary files during software creation, and thus is slower.
+
+3)Gradle is highly customizable as it supports a variety of Integrated Development Environments (IDEs) while Maven serves a limited number of developers and is less customizable.
