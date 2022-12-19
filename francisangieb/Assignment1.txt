@@ -26,3 +26,9 @@
    while Gradle performs better than Maven as we optimize it for tracking only
    current running tasks, which means it only works on the tasks that have been
    changed to give a better performance.
+
+7. Maven is great for minor projects.We should use it when dependency management,
+   modularization, consistency, lots of plug-ins, and conventions (over Configuration)
+   are preferred.
+   while Gradle is fantastic for extensive projects. We should use it when flexibility,
+   ease of use, speed, and incremental builds are of importance.
