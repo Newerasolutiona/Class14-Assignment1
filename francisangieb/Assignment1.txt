@@ -6,3 +6,8 @@
 
 2. Maven focuses on developing applications within deadlines.
    while Gradle focuses on developing applications by adding additional features.
+
+3. Maven uses Extensible Markup Language or XML for making the project structure.
+   Maven uses an XML file for declaring the project and its dependencies.
+   while Gradle uses Groovy-based Domain-Specific language for making the project
+   structure.
