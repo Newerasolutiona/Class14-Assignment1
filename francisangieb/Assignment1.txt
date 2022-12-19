@@ -14,3 +14,8 @@
 
 4. Maven supports development in languages like Scala, C#, and Ruby.
    while Gradle supports development in languages like Java, C, C++, and Groovy.
+
+5. Maven provides a limited number of parameters and resources; it can serve a
+   limited number of developers and is not much customizable.
+   while Gradle is highly customizable and provides an extensive range of
+   IDE support builds. We can use Gradle for native development with C/C++.
