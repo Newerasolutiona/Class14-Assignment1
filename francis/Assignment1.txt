@@ -11,3 +11,6 @@
    Maven uses an XML file for declaring the project and its dependencies.
    while Gradle uses Groovy-based Domain-Specific language for making the project 
    structure.
+
+4. Maven supports development in languages like Scala, C#, and Ruby.
+   while Gradle supports development in languages like Java, C, C++, and Groovy.
