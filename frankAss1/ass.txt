@@ -1,0 +1,4 @@
+Diffrence between Gradle and Maven
+
+GRADLE: automation system that uses a Groovy-based DSL (domain-specific language )
+MAVEN : software project management system that is primarily used for java projects.
