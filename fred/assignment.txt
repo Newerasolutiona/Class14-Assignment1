@@ -1,0 +1,12 @@
+My Class14 Assignment of 12/17/2022
+
+By Fred Davidson
+
+
+
+ What is the Difference b/w Maven and Gradle?
+
+Gradle is based on graph of task dependencies while Maven is based on fixed and linear approach
+
+Maven uses XML format for its configuration in (POM), on the other hand Gradle uses a more groovy based DSL language for its config files. 
+Also, gradle support software development in Java, C, C++ and Groovy while, Maven supports software development in Java, Scala C#
