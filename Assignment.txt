@@ -1,0 +1,26 @@
+#12/20/2022
+#Class 14 Assignment
+#Muhidin Nandule
+
+Question: What is difference between MAVEN and Gradle?
+
+Answer: 
+
+Maven: Maven is an open-source project management tool that helps us to create different software in the lifecycle used by this tool. This tool focuses on the standardization (i.e.) development of the software in a standard layout within a short duration of time. With this, we can create Java projects but is compatible to be used for other languages too. Maven uses Extensible Markup language(XML) for the structuring of the application. 
+
+Advantages of Maven –
+
+The process of project building is simplified and well organized.
+Maven automatically executes the task of downloading Jar files and the other dependencies.
+Maven can easily incorporate new dependencies by formulating the dependency code in the POM file.
+It facilitates easy access to all the essential information.
+It’s extensible and plug-ins can be easily written using scripting languages or Java.
+
+Gradle: Gradle is an open-source tool that helps us to create software with mechanization. This tool is widely used for the creation of different kinds of software due to its high performance. It works on Java and a Groovy-based Domain-Specific Language (DSL) for developing the project structure. Gradle supports the creation of mobile and web applications with testing and deploying on various platforms. With its functionality, it is preferred as an official tool for developing Android applications. 
+
+Advantages of Gradle –
+
+Its highly customizable property. The tool can be modified under various technologies for diverse projects.
+The performance of Gradle is very fast and efficient. It is around 2x in speed to that of Maven.
+Gradle is a tool used for creating plug-ins and is a flexible instrument.
+It provides a wide variety of IDEs for an enhanced user experience.
