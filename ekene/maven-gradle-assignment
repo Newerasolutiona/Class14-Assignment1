@@ -1,0 +1,33 @@
+#DIFFERENCE BETWEEN MAVEN AND GRADLE
+
+(1) Based on:
+-Maven is based on developing pure java language-based software.
+-Gradle is based on developing domain-specific language projects.
+
+(2) Configuration:
+-Maven uses Extensible Markup Language(XML) for creating project structure.
+-Gradle uses a Groovy-based Domain specific language(DSL) for creating project structure.
+
+(3) Maven focuses on developing applications in agiven time limit, while Gradle focuses on developing applications by adding new features to them.
+
+(4)Performance:
+-Maven does not create local temporary files during software creation, and hence it's slower.
+-Gradle performs better than maven as it optimized for tracking only current running task.
+
+(5) Java Compilation:
+-Maven makes it necessary to compile.
+-Gradle avoids compilation.
+
+(6) Usability:
+-Maven is a known tool for many users and is easily available.
+-Gradle is a new tool, which requires users to spend a lot of time to get used to it.
+
+(7) Customization:
+-Maven serves a limited amount of developers and is not that customizable.
+-Gradle is highly customizable as it supports a variety of IDE's.
+
+(8) Languages supported:
+-Maven supports software development in Java, Scala, C# and Ruby.
+-Gradle supports software development in Java, C, C++ and Groovy.
+
+Thanks
