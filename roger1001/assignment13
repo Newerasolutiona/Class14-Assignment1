@@ -1,2 +1,5 @@
 1=Gradle is based on developing domain-specific language projects while Gradle is based on developing domain-specific language projects.
-2=It uses a Groovy-based Domain-specific language(DSL) for creating project structure while maven t uses Extensible Markup Language(XML) for creating project structure.
+2=It uses a Groovy-based Domain-specific language(DSL) for creating project structure while maven t uses Extensible Markup Language(XML) for creating project structure
+3=Focuses on	Developing applications by adding new features to them while maven Developed
+
+ applications in a given time limit..
