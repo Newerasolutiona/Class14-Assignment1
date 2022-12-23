@@ -1,0 +1,9 @@
+The difference between Maven and Gradle
+
+Maven is an automation tool that was created mainly for java projects. It is written in java script language.
+Gradle is a build automation tool that is built for multi-language software development.
+
+1. Gradle is faster than Maven because of it's incrementality; it tracks inputs and output of files and runs only what is necessary, and where possible and only processes files that changed.
+2. Gradle is written in  groovy language while Maven uses java
+3. Gradle is easily customizable than Maven
+4. Maven is more popular because it's been around longer than Gradle.
