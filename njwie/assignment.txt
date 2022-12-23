@@ -1,4 +1,5 @@
 Differences between maven and Gradle
 @@ -13,7 +13,7 @@ c. Maven uses Extensible Markup Language or XML for making the project structure
 
-d. Maven supports development in languages like Scala, C#, and Ruby.
+d. Maven supports development in languages like Scala, C#, and Ruby
+. Maven has a slower build time since it does not use build-cache, which means it does not create local temporary files during software creation hence uses ample time.
