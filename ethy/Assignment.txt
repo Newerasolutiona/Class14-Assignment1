@@ -1,0 +1,3 @@
+The Differences between Maven and Gradle are:
+(1) (1)	Maven is based on developing pure Java language-based software while Gradle is based on developing domain-specific language projects.
+
