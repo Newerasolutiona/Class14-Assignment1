@@ -3,4 +3,6 @@
 3=Focuses on	Developing applications by adding new features to them while maven Developed
  applications in a given time limit..
 4=It avoids compilation While It is necessary to compile with maven
-5=This tool is highly customizable as it supports a variety of IDE’s while maven  tool serves a limited amount of developers and is not that customizable.
+5=This tool is highly customizable as it supports a variety of IDE’s while maven
+  tool serves a limited amount of developers and is not that customizable.
+6It supports software development in Java, C, C++, and Groovy while maven1: supports software development in Java, Scala, C#, and Ruby.
