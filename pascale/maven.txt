@@ -10,5 +10,5 @@ The java compilation is not compulsory for the Gradle tool. On the contrary, Jav
 The Gradle tool is new, hence the users of this tool are limited. The Maven tool is a well-known tool that makes the tool easily available for developers to design new projects.
 In terms of execution of project, the performance of Gradle is very fast and efficient. It is around two times in speed to that of Maven.
 
-
+###End###
 
